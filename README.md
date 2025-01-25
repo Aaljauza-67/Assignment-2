@@ -6,6 +6,9 @@
 
 On December 17th, we had the opportunity to visit the data center at UTMDigital. 
 
+![image](https://github.com/user-attachments/assets/8f3df9d4-d31f-4ae0-8704-f9b6198d9b61)
+
+
 Our day began with a presentation in one of the building's halls, where we learned about the services offered by UTMDigital and received contact information for any wifi or technical support needs. Additionally, we gained insight into the infrastructure of the UTM Data Centre. A speaker then discussed the development process of the UTMSmart application. Finally, a UTM graduate shared his experiences from his time at university and his subsequent career, including stories about working as part of a programming team.
 
 After the presentations, we took a guided tour of the facility. Our first stop was the UTM DigitalCare office, where we explored various rooms and had a brief overview of the office setup. We saw a conference room that featured a smartboard utilized for virtual meetings, and two technicians explained the workings of UTM DigitalCare.
